@@ -5,7 +5,7 @@ Convert a simple static site into a data uri. Nice for self contained bookmarkle
 ## Get Started
 
 ```bash
-$ git clone git+https://github.com/thomaswilley/smushsite.git
+$ git clone https://github.com/thomaswilley/smushsite.git
 $ cd smushsite && python3 smush.py -h
 ```
 
